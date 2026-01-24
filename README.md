@@ -5,7 +5,7 @@ This project focuses on **JavaScript logic**, button-driven input handling, and 
 
 🚧 **Status:** This project is still under construction.
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://robotech83.github.io/Calculator/)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://robotech83.github.io/Calucator/)
 
 ---
 
